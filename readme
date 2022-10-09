@@ -1,0 +1,10 @@
+Steps:
+
+1. create a question class with question and answer and difficulty attributes and no methods DONE
+2. inside of main create a function that uses both the question class and the data to create an array of question objects DONE
+3. inside of quiz class create a class with:
+a. question array attribute from constructor 
+b. question num attribute 
+c. score attribute 
+d. create_questions() method 
+e. 
