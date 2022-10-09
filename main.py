@@ -1,6 +1,9 @@
 from question_model import Question
 from data import question_data
 from quiz_class import Quiz
+from art import logo
+
+print(logo)
 
 
 def generate_question_objects():
